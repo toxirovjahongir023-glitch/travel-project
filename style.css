@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #0B2727;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 100%;
+}
+
+ul {
+    list-style: none;
+}
+
+.span1 {
+    font-size: 44px;
+
+}
+
+.span2 {
+    font-size: 44px;
+    color: #FAA935;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.navlinks {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    margin-left: 381px;
+}
+
+.li {
+    color: #FAA935;
+}
+
+.d1 {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    margin-right: 100px;
+}
+
+.spans {
+    margin-left: 600px;
+}
+
+.container {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.div1 {
+    display: flex;
+    gap: 30px;
+    margin-top: 50px;
+}
+
+.div2 {
+    margin-top: 30px;
+    display: flex;
+    gap: 31px;
+}
+
+.hero {
+    background-image: url("./images/all\ tours.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    padding: 176px 579px;
+}
+
+.bar {
+    padding: 50px 470px 100px 160px;
+    margin-left: 250px;
+
+}
+
+#section {
+    margin-bottom: 60px;
+}
+
+.div3 {
+    display: flex;
+    gap: 30px;
+    margin-top: 30px;
+}
+
+.div4 {
+    display: flex;
+    gap: 31px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
